@@ -1,0 +1,8 @@
+const char* ssid = "";
+const char* password = "";
+const char* mqtt_server = "mqtt.bitlair.nl";
+
+const char* djo_state_topic = "bitlair/switch/state/djo";
+const char* bitlair_state_topic = "bitlair/switch/state/bitlair";
+const char* bell_topic = "bitlair/doorduino/doorbell";
+const char* door_open_topic = "bitlair/doorduino/dooropen";
